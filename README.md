@@ -1,6 +1,7 @@
 # Data Scientist Marathon
 
-## First part: Excel Done in 22-26 September.
+## First part: Excel ✅
+### Completed in 22-26 September.
 Here the key aspect I learnt
 
 * Cleaning Data
@@ -16,3 +17,5 @@ Here the key aspect I learnt
     * Absolute referencing
         * $C12 - Column C is absolute
         * C$12 - Row 12 is absolute
+
+## Second part: Statistics 🚧
